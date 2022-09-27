@@ -1,0 +1,11 @@
+.searchBlock {
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar-container {
+    width: 460px;
+    margin: 0 auto;
+    height: 52px;
+    position: relative;
+}
